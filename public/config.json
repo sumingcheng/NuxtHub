@@ -1,0 +1,66 @@
+{
+  "data": "配置文件",
+  "type": "应用中心",
+  "appList": [
+    {
+      "icon": "https://img1.baidu.com/it/u=4145888652,2564271053&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "name": "文档处理应用",
+      "description": "智能生成和管理各类文档。",
+      "url": "www.biying.com"
+    },
+    {
+      "icon": "https://img1.baidu.com/it/u=4145888652,2564271053&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "name": "合同分析应用",
+      "description": "自动分析和修订合同。",
+      "url": "www.biying.com"
+    },
+    {
+      "icon": "https://img1.baidu.com/it/u=4145888652,2564271053&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "name": "智能办公应用",
+      "description": "智能化解答常见办公室问题。",
+      "url": "www.biying.com"
+    },
+    {
+      "icon": "https://img1.baidu.com/it/u=4145888652,2564271053&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "name": "问答系统",
+      "description": "基于模型的智能问答系统。",
+      "url": "www.biying.com"
+    },
+    {
+      "icon": "https://img1.baidu.com/it/u=4145888652,2564271053&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "name": "个人报告生成器",
+      "description": "快速生成个人活动总结报告。",
+      "url": "www.biying.com/share"
+    },
+    {
+      "icon": "https://img1.baidu.com/it/u=4145888652,2564271053&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "name": "多语言翻译应用",
+      "description": "支持多语言的翻译平台。",
+      "url": "www.biying.com/share"
+    },
+    {
+      "icon": "https://img1.baidu.com/it/u=4145888652,2564271053&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "name": "会议摘要工具",
+      "description": "自动化会议内容记录与总结。",
+      "url": "www.biying.com/share"
+    },
+    {
+      "icon": "https://img1.baidu.com/it/u=4145888652,2564271053&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "name": "自动化办公助手",
+      "description": "简化日常办公任务。",
+      "url": "www.biying.com/share"
+    },
+    {
+      "icon": "https://img1.baidu.com/it/u=4145888652,2564271053&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "name": "语音转文字工具",
+      "description": "快速将语音信息转为文本。",
+      "url": "www.biying.com/share"
+    },
+    {
+      "icon": "https://img1.baidu.com/it/u=4145888652,2564271053&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "name": "人力资源助手",
+      "description": "优化人力资源管理和招聘流程。",
+      "url": "www.biying.com/share"
+    }
+  ]
+}
